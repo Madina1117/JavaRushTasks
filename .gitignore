@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.idea
+3.JavaMultithreading
+4.JavaCollections
+5.OnlineInternship
+Instruction.png
+JavaRushTasks.iml
+out
+out.log
+out.log.1
